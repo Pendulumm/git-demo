@@ -5,3 +5,4 @@ hello git      hot-fix test^_^
 22222222222222222222222222222222222
 lhc modified ^_^
 ssh test
+ssh push test
